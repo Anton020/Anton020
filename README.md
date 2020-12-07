@@ -1,8 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on "Employee Managment System" website
-🌱 I’m currently learning HTML, Java, PcShell.
-:frog: I'm curretnly using C++, HTML, Java.
-
+🌱 I’m currently learning HTML and Java
+:frog: I'm curretnly using Java
+:koala: I know MySQL and C++
 
 
 <!--
