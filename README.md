@@ -1,7 +1,10 @@
 ### Hi there 👋
-🔭 I’m currently working on "Employee Managment System" website \n
-🌱 I’m currently learning HTML and Java \n
-:frog: I'm curretnly using Java \n
+🔭 I’m currently working on "Employee Managment System" website 
+
+🌱 I’m currently learning HTML and Java
+
+:frog: I'm curretnly using Java
+
 :koala: I know MySQL and C++
 
 
