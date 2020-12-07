@@ -3,9 +3,7 @@
 
 🌱 I’m learning HTML and Java
 
-:frog: I'm using Java
-
-:koala: I know MySQL and C++
+:koala: I know MySQL, C++ and C# basics
 
 
 <!--
