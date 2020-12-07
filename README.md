@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on "Employee Managment System" website
-🌱 I’m currently learning HTML and Java
-:frog: I'm curretnly using Java
+🔭 I’m currently working on "Employee Managment System" website \a
+🌱 I’m currently learning HTML and Java \a
+:frog: I'm curretnly using Java \a
 :koala: I know MySQL and C++
 
 
