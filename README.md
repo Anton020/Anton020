@@ -1,9 +1,9 @@
 ### Hi there 👋
 🔭 I’m currently working on "Employee Managment System" website 
 
-🌱 I’m currently learning HTML and Java
+🌱 I’m learning HTML and Java
 
-:frog: I'm curretnly using Java
+:frog: I'm using Java
 
 :koala: I know MySQL and C++
 
